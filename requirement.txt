@@ -1,0 +1,14 @@
+tensorflow
+keras
+pandas
+numpy
+jupyter
+tqdm
+opencv-contrib-python
+
+
+images                       labels
+images/angry/sinha.png       angry
+
+
+load_img(img, grayscale=True)
